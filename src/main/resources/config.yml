@@ -1,0 +1,2 @@
+# minesql-host: set via MINESQL_HOST env var (default: 172.17.0.1)
+minesql-query-port: 5456
