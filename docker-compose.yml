@@ -15,8 +15,7 @@ services:
       DIFFICULTY: "peaceful"
       SPAWN_MONSTERS: "false"
       SPAWN_ANIMALS: "false"
-      ENABLE_RCON: "true"
-      RCON_PASSWORD: "minesql"
+      ENABLE_RCON: "false"
     extra_hosts:
       - "host.docker.internal:host-gateway"
     ports:
